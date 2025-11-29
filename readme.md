@@ -64,10 +64,12 @@ Mengatur tampilan:
 7. Didalamnya dapat memilih jenis latihan yang mau dilakukan dan intensistas latihan yang mau
    dilakukan
 8. Setelah memencet latihan, akan muncul hasil latihan
-9. Pnecet Riwayat latihan untuk melihat semua hasil latihan yang telah dilakukan.
-10. Pnecet tombol kembali untuk balik ke halaman depan.
+9. Pencet Riwayat latihan untuk melihat semua hasil latihan yang telah dilakukan.
+10. Pencet tombol kembali untuk balik ke halaman depan.
 
 DEMO SINGKAT
+
 ![demo video paras pokemon](https://github.com/user-attachments/assets/dcac361e-8be2-44c9-a5d4-a1e51eaeb953)
+
 
 
